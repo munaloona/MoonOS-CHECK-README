@@ -1,4 +1,4 @@
-## Anyone is allowed to use MoonOS in any way.
+# **MoonOS**
 
 MoonOS is an operating system coded in batch. Obviously it's not an actually operating system because that's impossible but it's meant just to play around with.
 If anybody could help me with MoonOS it would be greatly appreciated. Any suggestions for MoonOS you should dm me on discord Moona Loona#0001.
