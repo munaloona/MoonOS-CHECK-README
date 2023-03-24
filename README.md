@@ -14,4 +14,4 @@ ________________________________________________________________________________
 
 ## Credits
 ### Head Developer | Moona Loona#0001
-### Debugger | Chocolate Cake#5579
+### Debugger, Developer | Chocolate Cake#5579
