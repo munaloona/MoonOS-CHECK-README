@@ -9,9 +9,9 @@ To create a new user in MoonOS, go into files > system > tut and copy the user t
 ______________________________________________________________________________________________________________________________________________
 
 ## Socials
-### [Discord](https://discord.gg/AKFvXdv7fy),    [YouTube](https://www.youtube.com/@MoonaLoons),    [Twitter](https://twitter.com/MoonsMoona)
+**[Discord](https://discord.gg/AKFvXdv7fy),    [YouTube](https://www.youtube.com/@MoonaLoons),    [Twitter](https://twitter.com/MoonsMoona)**
 ______________________________________________________________________________________________________________________________________________
 
 ## Credits
-### Head Developer | Moona Loona#0001
-### Debugger, Developer | Chocolate Cake#5579
+**Head Developer** | Moona Loona#0001
+**Debugger, Developer** | Chocolate Cake#5579
