@@ -1,7 +1,9 @@
 # **MoonOS**
 
 MoonOS is an operating system coded in batch. Obviously it's not an actually operating system because that's impossible but it's meant just to play around with.
-If anybody could help me with MoonOS it would be greatly appreciated. Any suggestions for MoonOS you should dm me on discord Moona Loona#0001.
+If anybody could help me with MoonOS it would be greatly appreciated. Any suggestions for MoonOS you should dm me on discord at Moona Loona#0001.
+
+If you want your custom user onto the official MoonOS, please dm me on discord at Moona Loona#0001.
 
 ## Tutorials
 ### How to create custom users
