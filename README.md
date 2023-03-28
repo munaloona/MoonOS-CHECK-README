@@ -1,5 +1,7 @@
 # **MoonOS**
 
+## Hello. So for an amount of time that i dont know i will no longer be updating MoonOS. For any questions please message Moona Loona#0001 on discord.
+
 MoonOS is an operating system coded in batch. Obviously it's not an actually operating system because that's impossible but it's meant just to play around with.
 If anybody could help me with MoonOS it would be greatly appreciated. Any suggestions for MoonOS you should dm me on discord at Moona Loona#0001.
 
